@@ -28,3 +28,4 @@ export const CONNECTION_GAMES = [
         "https://d1u6g1e1nisfhs.cloudfront.net/wp-content/uploads/articles-film-director-sq.jpg",
     },
   ],
+  ];
